@@ -1,0 +1,1 @@
+D:\React Native\Diary\Diary\android\app\build\intermediates\cxx\Debug\311k3k1k\obj\arm64-v8a

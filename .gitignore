@@ -1,0 +1,43 @@
+# 🔐 Environment files
+.env
+.env.*
+
+# 🔐 Supabase config (if secrets are in the file)
+supabase.js
+
+# 📱 Android keystore files
+android/app/debug.keystore
+android/app/release.keystore
+android/app/my-upload-key.keystore
+android/keystores/
+
+# ⚙️ iOS build artifacts
+ios/Pods/
+ios/Podfile.lock
+ios/build/
+ios/*.xcworkspace
+ios/*.xcuserstate
+
+# ⚙️ Android build artifacts
+android/.gradle/
+android/app/build/
+android/build/
+
+# 📦 Node modules & package locks
+node_modules/
+package-lock.json
+yarn.lock
+
+# 📱 Expo & Metro cache
+.expo/
+.expo-shared/
+dist/
+build/
+*.apk
+*.ipa
+*.log
+
+# 🔄 Misc
+*.DS_Store
+*.keystore
+*.jks

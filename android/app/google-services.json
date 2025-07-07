@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "215067663734",
+    "project_id": "diary-40cf0",
+    "storage_bucket": "diary-40cf0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215067663734:android:f79ffc5f5dd19bce1e6e57",
+        "android_client_info": {
+          "package_name": "com.otakucodes.diary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215067663734-cmbopqdn53a7rufjphgoppe63999i2ee.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.otakucodes.diary",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "215067663734-a669q0p4lob60bn6ps13mmn62vj829iu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD05-DrOyUy-lETTKrPMI0etCMS6Et-bOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215067663734-a669q0p4lob60bn6ps13mmn62vj829iu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
