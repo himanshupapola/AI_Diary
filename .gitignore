@@ -1,6 +1,9 @@
 # 🔐 Environment files
 .env
 .env.*
++.env.local
++.env.production
++.env.development
 
 # 🔐 Supabase config (if secrets are in the file)
 supabase.js
@@ -10,6 +13,12 @@ android/app/debug.keystore
 android/app/release.keystore
 android/app/my-upload-key.keystore
 android/keystores/
+android/app/google-services.json
++android/google-services.json
++google-services.json 
+
+# 🔐 iOS Firebase config
++ios/GoogleService-Info.plist
 
 # ⚙️ iOS build artifacts
 ios/Pods/

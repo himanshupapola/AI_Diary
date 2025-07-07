@@ -1,6 +1,6 @@
 # 📕 AI Diary (Android App)
 
-is a React Native mobile application built to help users securely write, manage, and reflect on their daily experiences. It features AI-generated reflections, and seamless Supabase integration for user data management.
+AI Diary is a React Native mobile application built to help users securely write, manage, and reflect on their daily experiences. It features AI-generated reflections, and seamless Supabase integration for user data management.
 
 ## 🧱 Tech Stack
 
