@@ -33,7 +33,6 @@ yarn.lock
 .expo-shared/
 dist/
 build/
-*.apk
 *.ipa
 *.log
 

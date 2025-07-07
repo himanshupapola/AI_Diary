@@ -53,4 +53,4 @@ npx react-native run-android
 
 - AI Diary - [`🚀 Click to Visit`][frontend-link]
 
-[frontend-link]: "./final_app.apk"
+[frontend-link]: ./final_app.apk
