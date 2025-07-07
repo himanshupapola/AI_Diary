@@ -48,3 +48,9 @@ npx react-native run-android
 
 - 📊 Better storage solution
 - 🧠 Implement Encryption
+
+## ☁️ Final Build
+
+- AI Diary - [`🚀 Click to Visit`][frontend-link]
+
+[frontend-link]: "./final_app.apk"
